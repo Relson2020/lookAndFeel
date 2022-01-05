@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Icons</string>
+    <string name="text">Hey there!!!</string>
+    <string name="defaultButton">Default</string>
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+</resources>
